@@ -12,3 +12,5 @@ dependencies:
   - s3fs
   - zarr
   - dask 
+  - seaborn
+  - vim
