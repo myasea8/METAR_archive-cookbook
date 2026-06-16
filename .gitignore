@@ -135,4 +135,8 @@ dmypy.json
 # Ephemeral .nfs files
 .nfs*
 
+# Additional files to ignore
+.pdf
+.parquet
+
 .vscode/
