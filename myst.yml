@@ -24,15 +24,14 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/0_Intro.ipynb
         - file: notebooks/primer.ipynb
     - title: Examples 
       children: 
-        - file: notebooks/local_statistics.ipynb
-        - file: notebooks/2_Interactive_Viz.ipynb
+        - file: notebooks/Geopandas_Viz.ipynb
         - file: notebooks/Lonboard_Visualization.ipynb
+        - file: notebooks/local_statistics.ipynb
         - file: notebooks/reanalysis_comparison.ipynb
-        - file: notebooks/3_AI_Assistant.ipynb
+        - file: notebooks/AI_Assistant.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
